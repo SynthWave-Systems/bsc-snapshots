@@ -11,8 +11,8 @@
     },
     "erigon": {
         "fast": {
-            "link": "https://snapshots.48.club/erigon.42468051.tar.zst",
-            "sha256": "663bedb6d8a1cfcc775fa5dfc61a07c2d8c690e07965256d5ee11fd927d000ad"
+            "link": "https://snapshots.48.club/erigon.42677102.tar.zst",
+            "sha256": "c7a7dc91c237d84ed4392dd9165497250a89b3a7fa43e6ad42540f68066de174"
         }
     }
 }
