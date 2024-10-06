@@ -17,7 +17,7 @@
 | Field |Value |
 | --- | --- |
 | Version | [v1.4.15](https://github.com/bnb-chain/bsc/releases/tag/v1.4.15) |
-| Block | [42852745](https://bscscan.com/block/42852745) (Sep-29-2024 07:43:02 AM +UTC) |
+| Block | [42852745](https://bscscan.com/block/42852745) (Oct-05-2024 02:21:13 PM +UTC) |
 | Link | `https://snapshots.48.club/geth.fast.42852745.tar.zst` |
 | Size | 321.20G <-> 353.88G |
 | SHA256 | `189a97e5702b1c48c82d620218f93ac760813ab9673eaf6ee0d6292d5de02433` |
@@ -31,10 +31,10 @@
 | Field |Value |
 | --- | --- |
 | Version | [v1.4.15](https://github.com/bnb-chain/bsc/releases/tag/v1.4.15) |
-| Block | [42679211](https://bscscan.com/block/42679211) (Sep-29-2024 01:43:53 PM +UTC) |
-| Link | `https://snapshots.48.club/geth.full.42679211.tar.zst` |
-| Size | 875.04G <-> 956.77G |
-| SHA256 | `2d984093f67ec741165cc6f76d176be5d28945736e45fd0975c2154a4c4249f7` |
+| Block | [42872871](https://bscscan.com/block/42872871) (Oct-06-2024 07:07:34 AM +UTC) |
+| Link | `https://snapshots.48.club/geth.full.42872871.tar.zst` |
+| Size | 874.06G <-> 955.08G |
+| SHA256 | `471f0c851e6d6b3df41c280be50839464356ff809b4c361bb1495a90b62049be` |
 | Flags | `--history.transactions=90000 --syncmode=full --db.engine=pebble` |
 | Disk Suggestion | Minimum(NVMe ≥ 1.2T), Suggestion(NVMe ≥ 2T) |
 
