@@ -1,5 +1,5 @@
 #!/bin/bash
-webseed_url=https://download.bsc-snapshot.workers.dev/bsc
+webseed_url=https://download.bsc-snapshot.workers.dev/bsc/v2
 snapshot_content=$(curl -s $webseed_url/manifest.txt)
 IFS=$'\n'
 jq_str='{}'
